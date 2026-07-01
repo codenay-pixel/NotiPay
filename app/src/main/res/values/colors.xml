@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="biru_gelap">#0E5073</color>
+    <color name="biru_background">#15628A</color>
+    <color name="abu_background">#F8FAFC</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="hitam_teks">#1E293B</color>
+    <color name="abu_teks">#64748B</color>
+    <color name="biru_teks">#026A9A</color>
+    <color name="teal_sukses">#0E7490</color>
+</resources>
